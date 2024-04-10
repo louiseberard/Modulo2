@@ -1,0 +1,32 @@
+---
+title: "Técnicas y Herramients Modernas"
+author: "Grupo Hudson"
+date: "27/03/2024"
+output:
+  word_document: default
+  pdf_document: default
+  html_document: default
+---
+
+
+## TCO (Total Cost of Owership)
+
+El coste total de propiedad o costo total de propiedad (proveniente del término anglosajón total cost of ownership o TCO), es un método de cálculo diseñado para ayudar a los usuarios y a los gestores empresariales a determinar los costes directos e indirectos, así como los beneficios, relacionados con un producto o sistema. Se usa específicamente para la compra de equipos o programas informáticos, y de modo creciente para el cálculo económico de soluciones energéticas sostenibles.
+
+El CTP ofrece un resumen final que refleja no sólo el coste de la compra sino aspectos del uso y mantenimiento. Esto incluye formación para el personal de soporte y para usuarios, el coste de operación, y de los equipos o trabajos de consultoría necesarios, etc.
+
+A continuación se realiza una tabla de costos para iniciar un microemprendimiento de impresión 3D
+
+
+ Unidades | Elemento | Precio unitario | Precio Total |
+|:-------:|:------|:-----------:|:---------:|
+| 5 | Computadora | 600.000 |3.000.000 |
+| 1 | Servidor | 1.000.000 | 1.000.000 |
+| 5 | Impresora 3D | 300.000 | 1.500.000 |
+|5 | Licencias de Microsoft|200.000|1.000.000| 
+|5|Antivirus|50.000|250.000| 
+|2|Extintores de incendios|70.000|140.000|
+|10|Filamentos para impresión 3D|20.000|200.000|
+|6|Escritorios|65.000|390.000|
+|6|Sillas de oficina|68.000|408.000|
+|Monto Total|||7.888.000|
